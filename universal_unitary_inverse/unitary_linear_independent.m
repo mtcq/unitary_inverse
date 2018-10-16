@@ -1,5 +1,5 @@
 function nLI=unitary_linear_independent(list_U)
-%This funcion calculate the number of linear independent linear maps
+%This funcion calculate the number of linearly independent linear maps
 %(in particular, unitary channels) in a list of operators 'list_U'.
 %The variable 'list_U' should be in the form list_U(:,:,i), where i ranges
 %from 1 to the number of linear operators
