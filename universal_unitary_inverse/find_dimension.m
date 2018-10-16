@@ -1,5 +1,5 @@
 function dim=find_dimension(d,k)
-%Function that evaluate the dimention spanned by 'k' copies of 'd'
+%Function that evaluate the dimention of the linear space spanned by 'k' copies of 'd'
 %dimension unitary channels
 %Start generating 'n' random unitary channels
 %initialise the 'n' parameter as 10^3
