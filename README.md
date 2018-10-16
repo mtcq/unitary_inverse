@@ -15,8 +15,8 @@ It has been tested on Matlab R2018A, and CVX 2.1
 
 The main scripts of this repositories are:
 
-  - [run_unitary_inverse](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/run_unitary_inverse.m)
-  - [run_unitary_transpose](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/run_unitary_transpose.m)
+  - [run_unitary_inverse](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/run_unitary_inverse.m) Obtain the maximal success probability for parallel, sequential, and general (potentially with indefinite causal order) protocols to transform 'k' uses of a 'd'-dimensional unitary into its inverse.
+  - [run_unitary_transpose](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/run_unitary_transpose.m) Obtain the maximal success probability for parallel, sequential, and general (potentially with indefinite causal order) protocols to transform 'k' uses of a 'd'-dimensional unitary into its transpose.
  
  
 The scripts xxx make use of the following subfunctions:
