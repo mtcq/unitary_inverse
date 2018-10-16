@@ -22,4 +22,6 @@ The main scripts of this repositories are:
 The scripts [run_unitary_inverse](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/run_unitary_inverse.m) and  [run_unitary_transpose](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/run_unitary_transpose.m) make use of the following subfunctions:
 
  - [find_dimension](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/find_dimension.m): Determine the dimention of the linear space spanned by 'k' copies of 'd' dimension unitary channels
- - [is_general_protocol](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/is_general_protocol.m): Determine the dimention of the linear space spanned by 'k' copies of 'd' dimension unitary channels
+ - [is_general_protocol](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/is_general_protocol.m): Determine if a supermap represents a general superchannel
+  - [is_sequential_protocol.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/is_sequential_protocol.m): Determine if a supermap represents a sequential superchannel
+  - [is_superchannel1use.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/is_superchannel1use.m): Determine if a supermap represents a superchannel with a single use of the input-operation
