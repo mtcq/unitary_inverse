@@ -1,4 +1,4 @@
-### Code to accompany *[QReversing unknown quantum transformations: A universal protocol for inverting general unitary operations](https://arxiv.org/list/quant-ph/new)*
+### Code to accompany: *[Reversing unknown quantum transformations: A universal protocol for inverting general unitary operations](https://arxiv.org/list/quant-ph/new)*
 #### Marco Túlio Quintino, Qingxiuxiong Dong, Atsushi Shimbo, Akihito Soeda, and Mio Murao
 
 
@@ -11,7 +11,7 @@ All codes are written in MATLAB and require:
 
 We have also used functions of QETLAB ([QETLAB](http://www.qetlab.com/) - A MATLAB Toolbox for Quantum Entanglement), but all used functions can be find in the subfolder [QETLAB_used_functions](https://github.com/mtcq/unitary_inverse/tree/master/universal_unitary_inverse/QETLAB_used_functions).
 
-%It has been tested on Matlab R2018A, and CVX 2.1
+It has been tested on Matlab R2018A, and CVX 2.1
 
 The main scripts of this repositories are:
 
