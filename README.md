@@ -25,8 +25,10 @@ The scripts [run_unitary_inverse](https://github.com/mtcq/unitary_inverse/blob/m
   - [is_general_protocol](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/is_general_protocol.m): Determine if a supermap represents a general superchannel
   - [is_sequential_protocol.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/is_sequential_protocol.m): Determine if a supermap represents a sequential superchannel
   - [is_superchannel1use.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/is_superchannel1use.m): Determine if a supermap represents a superchannel with a single use of the input-operation
-  - [maxp_general.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/maxp_general.m): Determine the maximal success probability of transforming k uses of a list of unitary operations into another list of unitaries in a general protocol
-  - [maxp_parallel.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/maxp_parallel.m): Determine the maximal success probability of transforming k uses of a list of unitary operations into another list of unitaries in a parallel protocol
+  - [maxp_general.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/maxp_general.m): Find the maximal success probability of transforming k uses of a list of unitary operations into another list of unitaries in a general protocol
   
-   - [maxp_sequential.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/maxp_sequential.m): Determine the maximal success probability of transforming k uses of a list of unitary operations into another list of unitaries in a sequential protocol
-   - [unitary_linear_independent.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/unitary_linear_independent.m): Determine the number of linear independent unitary channels contained in a list of unitaries
+  - [maxp_parallel.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/maxp_parallel.m): Find the maximal success probability of transforming k uses of a list of unitary operations into another list of unitaries in a parallel protocol
+  
+   - [maxp_sequential.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/maxp_sequential.m): Find the maximal success probability of transforming k uses of a list of unitary operations into another list of unitaries in a sequential protocol
+   
+   - [unitary_linear_independent.m](https://github.com/mtcq/unitary_inverse/blob/master/universal_unitary_inverse/unitary_linear_independent.m): Find the number of linear independent unitary channels contained in a list of unitaries
