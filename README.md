@@ -10,7 +10,7 @@ All codes are written in MATLAB and require:
 
 We have also used functions of QETLAB ([QETLAB](http://www.qetlab.com/) - A MATLAB Toolbox for Quantum Entanglement), but all used functions can be find in the subfolder [QETLAB_used_functions](https://github.com/mtcq/unitary_inverse/tree/master/universal_unitary_inverse/QETLAB_used_functions).
 
-%It has been tested on Matlab R20xx, and CVX xx
+%It has been tested on Matlab R2018A, and CVX 2.1
 
 The main scripts of this repositories are:
 
