@@ -1,9 +1,10 @@
-### Code to accompany: *[Reversing unknown quantum transformations: A universal protocol for inverting general unitary operations](https://arxiv.org/list/quant-ph/new)*
+### Code to accompany: *[Reversing unknown quantum transformations: A universal protocol for inverting general unitary operations](https://arxiv.org/abs/1810.06944)*
 #### Marco Túlio Quintino, Qingxiuxiong Dong, Atsushi Shimbo, Akihito Soeda, and Mio Murao
 
 
 This repository provides the codes used to obtain Table I and Table II in the article
-[Reversing unknown quantum transformations: A universal protocol for inverting general unitary operations](https://arxiv.org/list/quant-ph/new)
+Reversing unknown quantum transformations: A universal protocol for inverting general unitary operations,
+[Phys. Rev. Lett. 123, 210502 (2019)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.210502), [arXiv:1810.06944](https://arxiv.org/abs/1810.06944)
 #### Marco Túlio Quintino, Qingxiuxiong Dong, Atsushi Shimbo, Akihito Soeda, and Mio Murao
 
 All codes are written in MATLAB and require:
